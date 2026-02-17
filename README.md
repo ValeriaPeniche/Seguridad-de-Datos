@@ -99,12 +99,12 @@
 | **Disponibilidad** | Sistemas operativos cuando se necesitan | Redundancia, backups |
 
 ### Triangulo de Usabilidad
-             SEGURIDAD
-                 ↑
-               /   \
-              /     \
-             /       \
-   FUNCIONALIDAD ← → USABILIDAD
+               SEGURIDAD
+                    ↑
+                  /   \
+                 /     \
+                /       \
+      FUNCIONALIDAD ← → USABILIDAD
 
 **Principio:** No se pueden maximizar los tres simultáneamente.
 
@@ -169,12 +169,3 @@ RIESGO
 ---
 
 ## 📸 Google Phishing Quiz
-
-
-
-
-
-
-
-
-### ⚖️ TRIÁNGULO DE USABILIDAD
