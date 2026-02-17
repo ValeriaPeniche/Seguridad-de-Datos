@@ -108,6 +108,7 @@
 ### Riesgo
 
 **Fórmula conceptual:** RIESGO = Amenaza × Vulnerabilidad × Impacto
+
 AMENAZA (externo) ──→ EXPLOTA ──→ VULNERABILIDAD (interno) ──→ GENERA ──→ IMPACTO
 ↓
 RIESGO
