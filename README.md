@@ -1,9 +1,6 @@
 # Bitácora Seguridad de datos
 
 # 📝 Notas de clase
-
-*Registro diario de temas vistos en clase*
-
 ---
 
 ## Clase 1 (19/01/2026)
