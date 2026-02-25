@@ -163,7 +163,8 @@ RIESGO
 ---
 
 ## Tarea #995: ATTiny85 - PoC
+Inyección de comandos para la manipulación de la interfaz y accesibilidad del sistema
 
 ---
 
-## 📸 Google Phishing Quiz
+## Google Phishing Quiz
